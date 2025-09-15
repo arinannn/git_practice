@@ -1,6 +1,10 @@
 body{
-    background: yellow;
+    background: rgb(49, 12, 20);
 }
 p{
     color: brown;
+}
+h1{
+    color: pink;
+    text-decoration: uppercase;
 }
